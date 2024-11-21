@@ -7,7 +7,7 @@ def main():
 def multiply(a:int,b: int):
     return  a*b
 if __name__ == "__main__":
-    print("Hello, World!, hotfix")
+    print("Прочитал---> +10 лет к жизни!!!")
     print(multiply(2,2))
-    
+
     
