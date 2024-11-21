@@ -3,6 +3,11 @@ def main():
 
 def main():
     print("GoodBuy World!")
+
+def multiply(a:int,b: int):
+    return  a*b
 if __name__ == "__main__":
-    main()
+    print("Hello, World!, hotfix")
+    print(multiply(2,2))
+    
     
